@@ -1,3 +1,6 @@
+# HealthGPTBase
+AI health assistance
+
 # Project SetuP
 
 ## Prerequiseets
